@@ -1,8 +1,6 @@
 # Starbucks
 
-[<img src="https://github.com/hyemin12/react-dashboard-app2/blob/master/public/img/portfolio/starbucks.png?raw=true" alt="스타벅스" target="_blank" />](https://wizardly-jennings-ee135b.netlify.app)
-
-이미지를 클릭하면 사이트로 이동합니다.
+[https:/hyemin-pb.github.io/javascript-starbucks](https:/hyemin-pb.github.io/javascript-starbucks)
 
 <br>
 <hr>
