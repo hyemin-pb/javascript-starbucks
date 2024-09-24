@@ -1,6 +1,6 @@
 # Starbucks
 
-[https:/hyemin-pb.github.io/javascript-starbucks](https:/hyemin-pb.github.io/javascript-starbucks)
+[https://hyemin-pb.github.io/javascript-starbucks/](https://hyemin-pb.github.io/javascript-starbucks/)
 
 <br>
 <hr>
